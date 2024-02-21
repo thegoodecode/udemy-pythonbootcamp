@@ -91,3 +91,5 @@ elif move_player1 == 2 and move_player2 == "Scissors":
     print(scissors)
     print("The result is: Draw")
 
+else:
+  print("Youre input is invalid. Please try again.")
