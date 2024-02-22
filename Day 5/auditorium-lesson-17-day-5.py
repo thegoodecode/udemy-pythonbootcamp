@@ -28,3 +28,4 @@ for score in student_scores: #looping through every score in the list of student
     # print(highest_score)
 
 print(f"The highest score in the class is: {highest_score}")
+
